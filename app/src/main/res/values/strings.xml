@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TV Maze Browser</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_show_detail_screen">Details</string>
+    <string name="average_rating">Average rating: %1$s</string>
+    <string name="menu_close_search_btn_a11y">Close Search</string>
+    <string name="menu_search_btn_a11y"> Search</string>
+    <string name="menu_search_txt_placeholder"> Search shows…</string>
+    <string name="error_msg"> Something went wrong</string>
+    <string name="unknown_error_msg"> Unknown error</string>
+</resources>
