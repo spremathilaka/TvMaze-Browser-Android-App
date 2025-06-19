@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_name">TV Maze Browser</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="app_name">TV-Maze</string>
     <string name="title_show_detail_screen">Details</string>
     <string name="average_rating">Average rating: %1$s</string>
     <string name="menu_close_search_btn_a11y">Close Search</string>

@@ -19,7 +19,6 @@
     <activity
         android:name=".ui.show_list.TvShowListActivity"
         android:exported="true"
-        android:label="@string/title_activity_main"
         android:theme="@style/Theme.TVMazeBrowser">
 
         <intent-filter>
